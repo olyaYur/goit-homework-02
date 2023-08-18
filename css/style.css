@@ -76,7 +76,7 @@ button {
 }
 
 .logotype-text-studio {
-    color: var(--cloud-color);
+    color: #2e2f42;
 }
          /*menu-посилання*/ 
 .menu-list .menu-item-link {
@@ -112,6 +112,9 @@ button {
     background-color: var(--cloud-color);
 }
 
+.our-team-item {
+    background-color: var(--white-color);
+}
 
 /*button*/
 .btn-hero {
@@ -137,5 +140,8 @@ button {
     color: var(--cloud-color);
 }
 
+.logotype-text-studio-footer {
+    color: var(--cloud-color);
+}
 
 
