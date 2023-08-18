@@ -51,6 +51,8 @@ button {
     line-height: 1.11; /* 111.111%   40px*/
     color: var(--secondary-third-level-title-color);
     text-transform: capitalize;
+    text-align: center;
+    letter-spacing: 0.02em; /*0.32px*/  /*it was mistarke*/
 }
 
 .title-third-level {
@@ -58,6 +60,7 @@ button {
     font-weight: 500;
     line-height: 1.2; /* 120%  24px*/
     color: var(--secondary-third-level-title-color);
+    letter-spacing: 0.02em; /*0.32px*/ /* it was mistake*/
 }
 
 /* nav*/
@@ -73,7 +76,7 @@ button {
 }
 
 .logotype-text-studio {
-    color: var(--navyblue-color);
+    color: var(--cloud-color);
 }
          /*menu-посилання*/ 
 .menu-list .menu-item-link {
@@ -104,6 +107,10 @@ button {
     background-color: var(--navyblue-color);
 }
 
+/* section our team */
+.segment-our-team {
+    background-color: var(--cloud-color);
+}
 
 
 /*button*/
